@@ -1,4 +1,31 @@
-# 忽略所有非项目文件
+# 忽略产品资料库（2.1GB）
+产品资料库/
+产品资料库
+
+# OCR/PDF 工具脚本（非项目必要文件）
+download_tesseract.py
+download_tesseract_portable.py
+install_tesseract.py
+install_tesseract_admin.py
+ocr_pdf_to_text.py
+run_ocr_single.bat
+test_ocr.py
+test_ocr_v2.py
+test_paddleocr.py
+test_paddleocr_mobile.py
+test_pdf_parse.py
+check_download.py
+download_designs.py
+download_remaining.py
+
+# 临时截图/图片
+ScreenShot_2026-05-14_140549_566.png
+temp_page_25.png
+
+# awesome-design-md 设计参考（外部资料，非项目代码）
+awesome-design-md/
+
+# 系统文件
+Thumbs.db
 *.log
 .DS_Store
-Thumbs.db
